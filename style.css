@@ -1,16 +1,18 @@
 .row-footer{   
     background-color:black;
-    color:white;
-    font-size:25px;
+    color:orangered;
+    font-size:30px;
     display:flex;
     justify-content:space-around;
+    border:5px solid white;
 }
+
 .headshot{
     width:20%;
    
 }
 .mid{
-    background-color:blue;
+    background-color:royalblue;
     color:gold;
     align-items:center;
     font-size:25px;
@@ -25,4 +27,8 @@
     border:1px solid black;
     display:flex;
     justify-content:center;
+}
+.rowcontact{
+    display:flex;
+justify-content:center;
 }
