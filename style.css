@@ -32,3 +32,67 @@
     display:flex;
 justify-content:center;
 }
+.covers{
+    display:flex;
+    justify-content:column;
+}
+.fanpage{
+    position: absolute;
+    width:400px;
+    height:250px;
+    top:490px;
+}
+.RPS{
+    position: absolute;
+    width:400px;
+    height:250px;
+    top:740px;
+}
+.quiz{
+    position: absolute;
+    width:400px;
+    height:250px;
+    top:990px;
+}
+.playlist{
+    position: absolute;
+    width:400px;
+    height:250px;
+    top:1240px;
+}
+.FP{
+    position: absolute;
+    top:600px;
+    left:450px;
+    font-family: 'Righteous', cursive;
+    font-size: 30px;
+    border:6px dotted red;
+    background-color: gold;
+}
+.rpsLink{
+    position: absolute;
+    top:800px;
+    left:450px;
+    font-family: 'Righteous', cursive;
+    font-size: 30px;
+    border:6px solid blue;
+    background-color: green;
+}
+.buzz{
+    position: absolute;
+    top:1000px;
+    left:450px;
+    font-family: 'Righteous', cursive;
+    font-size: 30px;
+    border:6px dotted purple;
+    background-color: pink;
+}
+.list{
+    position: absolute;
+    top:1200px;
+    left:450px;
+    font-family: 'Righteous', cursive;
+    font-size: 30px;
+    border:6px dotted orange;
+    background-color: yellow;
+}
